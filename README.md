@@ -1,4 +1,4 @@
-# kali-arm-vagrant
+# kali-arm64-vagrant
 
 ## Introduction
 
