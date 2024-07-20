@@ -4,7 +4,7 @@
 Vagrant.configure("2") do |config|
 
   config.vm.box = "mdiazn80/kali-arm64"
-  config.vm.box_version = "2023.3"
+  config.vm.box_version = "2024.2"
 
   config.vm.synced_folder "./data", "/vagrant", SharedFoldersEnableSymlinksCreate: false
 
